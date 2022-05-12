@@ -1,3 +1,5 @@
+package SecondLesson;
+
 import java.util.Scanner;
 
 public class sLTask2 {

@@ -1,3 +1,5 @@
+package SecondLesson;
+
 import java.util.Scanner;
     // Пользователь вводит 3 числа, вывести на экран большее из этих чисел
     public class secondLessonIfStatement {
