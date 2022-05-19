@@ -1,4 +1,4 @@
-package TestTasks;
+package com.TestTasks;
 //Выведи на экран длину окружности, рассчитанную по формуле: L = 2 * Pi * radius (в методе printCircleLength).
 //        Результат - дробное число (тип double).
 //        В качестве значения Pi используй значение 3.14.

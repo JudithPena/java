@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ce838d7-c2f7-4e45-aa27-2094aac7f792" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/com/ThirdLevel/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTasks/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/TestTasks/Task7.java" afterDir="false" />
+>>>>>>> b9537cee1438354ed7418e31e167385bf124e4fa
       <change beforePath="$PROJECT_DIR$/src/ThirdLevel/Task331.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ThirdLevel/Task332.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ThirdLevel/Task333.java" beforeDir="false" />
@@ -55,6 +67,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Plutarch/Desktop/java/javarush&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ThreeNumbers">
     <configuration name="FightCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.FightCat" />
@@ -62,6 +75,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Classes.*" />
+=======
+  <component name="RunManager" selected="Application.minimumOfThree">
+    <configuration name="Task333" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdLevel.Task333" />
+      <module name="javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ThirdLevel.*" />
+>>>>>>> b9537cee1438354ed7418e31e167385bf124e4fa
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeNumbers.ThreeNumbers" />
       <module name="javarush" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThreeNumbers.*" />
+=======
+    <configuration name="com.ThirdLevel.MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ThirdLevel.MultiplicationTable" />
+      <module name="javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ThirdLevel.*" />
+>>>>>>> b9537cee1438354ed7418e31e167385bf124e4fa
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThirdLevel.test" />
       <module name="javarush" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThirdLevel.*" />
+=======
+    <configuration name="minimumOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ThirdLevel.minimumOfThree.minimumOfThree" />
+      <module name="javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ThirdLevel.minimumOfThree.*" />
+>>>>>>> b9537cee1438354ed7418e31e167385bf124e4fa
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,9 +137,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.ThreeNumbers" />
         <item itemvalue="Application.FightCat" />
         <item itemvalue="Application.test" />
+=======
+        <item itemvalue="Application.minimumOfThree" />
+        <item itemvalue="Application.com.ThirdLevel.MultiplicationTable" />
+        <item itemvalue="Application.ThirdLevel.Task333" />
+>>>>>>> b9537cee1438354ed7418e31e167385bf124e4fa
       </list>
     </recent_temporary>
   </component>
