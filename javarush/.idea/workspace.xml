@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e9a1c7-4f7c-454d-965c-1c87508cfd20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-    </list>
+    <list default="true" id="55e9a1c7-4f7c-454d-965c-1c87508cfd20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Plutarch/Desktop/java/javarush",
+    "last_opened_file_path": "C:/Users/PC/Desktop/java/classworks/src",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
